@@ -6,7 +6,7 @@ People hestitate when it comes to purchasing clothes online. Part of the reason 
  - Allow system to disaply filtered results accordingly
  - Support saving size information and account into different brand sizes and measures
 
-IMAGE 
+
 
 **Report**  
 In this [paper](), we demonstrate how image analysis can be used to implement this feature. To understand its impact, we also conducted an analytical and empirical evaluation of our system.
