@@ -15,7 +15,7 @@ In this [paper](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recomm
 
 The following diagram depicts our approach to this project
 
-<img src="https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Images/FlowChart.jpg" width="700">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Images/FlowChart.jpg" width="700">
 
 The [low-fidelity prototypes](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Low-Fi%20Prototypes.pdf) helped us quickly reach a good design. Empirical evaluation in the form of user feedback (before and after use of application) helped us in determine improvements in the systems' interaction. 
 
