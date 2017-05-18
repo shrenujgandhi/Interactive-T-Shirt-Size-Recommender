@@ -1,3 +1,6 @@
+
+<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/Course%20Project.png" width="150">
+
 # Interactive-T-Shirt-Size-Recommendor
 
 **Business Goal**  
