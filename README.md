@@ -9,5 +9,5 @@ People hestitate when it comes to purchasing clothes online. Part of the reason 
 
 
 **Report**  
-In this [paper](), we demonstrate how image analysis can be used to implement this feature. To understand its impact, we also conducted an analytical and empirical evaluation of our system.
+In this [paper](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Paper.pdf), we demonstrate how image analysis can be used to implement this feature. To understand its impact, we also conducted an analytical and empirical evaluation of our system.
 
