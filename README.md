@@ -24,3 +24,6 @@ To run the code, simply clone the repository and inside code double click the **
 
 **Conclusion**  
 While the system promises better interaction while shopping on online e-commerce systems, better image analysis could help overcome using of object (CD in this case). Many companies including Lenskart and RayBan have launched similar features in their system to help users try glasses online.
+
+**Attribution**  
+This project was designed and developed by [Shrenuj Gandhi](https://github.com/shrenujgandhi), [Chiraj Kapadia](https://github.com/chiragk25), [Shristi Arora](https://www.linkedin.com/in/arorasrishti/) and [Adtiya Mahandhare](https://github.com/amandha3) under the supervision of [Dr. Robert St. Amant](http://www4.ncsu.edu/~stamant/).
