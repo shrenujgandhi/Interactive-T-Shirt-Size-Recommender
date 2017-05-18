@@ -6,7 +6,7 @@ People hestitate when it comes to purchasing clothes online. Part of the reason 
 - Allow system to disaply filtered results accordingly
 - Support saving size information and account into different brand sizes and measures
 
-<img src="https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Images/Mock%20Up.jpg" width="400">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Images/Mock%20Up.jpg" width="400">
 
 A Mockup of how the user would interact with our system
 
