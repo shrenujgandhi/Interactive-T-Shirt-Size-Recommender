@@ -1,5 +1,5 @@
 
-<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/Course%20Project.png" width="150">
+[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/Course%20Project.png" width="150">](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor)
 
 # Interactive-T-Shirt-Size-Recommendor
 
