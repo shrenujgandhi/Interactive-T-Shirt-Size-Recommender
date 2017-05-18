@@ -20,7 +20,7 @@ The following diagram depicts our approach to this project
 The [low-fidelity prototypes](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Low-Fi%20Prototypes.pdf) helped us quickly reach a good design. Empirical evaluation in the form of user feedback (before and after use of application) helped us in determine improvements in the systems' interaction. 
 
 **Running the Code**  
-To run the code, simply clone the repository and inside code double click the **home.html**. The backend service is hosted live, so the image is sent and the system recieves the size prediction response. Just follow the steps described in [here](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Screenshots.pdf)
+To run the code, simply clone the repository and inside [Code](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/tree/master/Code) double click the **home.html**. The backend service is hosted live, so the image is sent and the system recieves the size prediction response. Just follow the steps described in [here](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor/blob/master/Screenshots.pdf)
 
 **Conclusion**  
 While the system promises better interaction while shopping on online e-commerce systems, better image analysis could help overcome using of object (CD in this case). Many companies including Lenskart and RayBan have launched similar features in their system to help users try glasses online.
