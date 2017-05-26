@@ -1,6 +1,6 @@
 
 [<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/AP.png" width="150">](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor)
-[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/HCI.png" width="260" height="18">](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor)
+[<img src="https://github.com/shrenujgandhi/Readme-Images/blob/master/HCI.png" width="240">](https://github.com/shrenujgandhi/Interactive-T-Shirt-Size-Recommendor)
 
 # Interactive-T-Shirt-Size-Recommendor
 
